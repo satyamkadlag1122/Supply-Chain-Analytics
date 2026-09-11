@@ -4,6 +4,10 @@ A dynamic **Power BI dashboard** designed to analyze procurement, supplier perfo
 
 The **Supply Chain Analytics Dashboard** provides a 3-page interactive view of procurement spend, supplier risk, delivery performance, and logistics costs. It helps stakeholders identify cost variances, supplier issues, delivery delays, and carrier performance gaps.
 
+
+## 🚀 Live Dashboard
+
+🔗 **[View Live Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=730cb13d-2d63-4a32-bf23-6365d9b6ef19&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f)**
 ## 🛠️ Tech Stack
 
 - 📊 **Power BI Desktop** – Dashboard development and visualization
@@ -81,18 +85,4 @@ To provide a single analytical view that helps users:
 - 📦 **Quality Improvement:** Monitor rejected quantities and rejection rates.
 - 📈 **Better Decisions:** Provide management with a centralized view of supply chain performance.
 
-## 📸 Dashboard Preview
 
-![Supply Chain Analytics Dashboard](./images/supply_chain_analytics_dashboard.png)
-
-## 🚀 Live Dashboard
-
-🔗 **[View Live Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=730cb13d-2d63-4a32-bf23-6365d9b6ef19&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f)**
-
-## 👨‍💻 Author
-
-**Satyam Kadlag**
-
-B.E. Artificial Intelligence & Data Science
-
-**Power BI | SQL | Python | Data Analytics**
