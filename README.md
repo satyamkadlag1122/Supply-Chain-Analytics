@@ -63,7 +63,7 @@ Provides an executive-level view of overall supply chain performance — procure
 ### 2. Supplier & Procurement Performance
 Analyzes supplier performance, procurement pricing, quality, and delivery effectiveness.
 
-[![Supplier & Procurement Performance](./images/supplier_procurement_performance.png)](./images/supplier_procurement_performance.png)
+[![Supplier Performance](./img/supplier_performance.png)](./img/supplier_performance.png)
 
 **Key visuals:**
 - Total Suppliers, Average Supplier Rating, Purchase Price Variance %, Average Quality Score, and Average Delivery Score KPIs
@@ -76,7 +76,7 @@ Analyzes supplier performance, procurement pricing, quality, and delivery effect
 ### 3. Logistics & Delivery Performance
 Analyzes transportation costs, carrier performance, transit time, and delivery reliability.
 
-[![Logistics & Delivery Performance](./images/logistics_delivery_performance.png)](./images/logistics_delivery_performance.png)
+[![Logistics Performance](./img/Logistics_Performance.png)](./img/Logistics_Performance.png)
 
 **Key visuals:**
 - Total Freight Cost, Average Transit Time, On-Time Delivery %, Delayed Shipments, and Delivery SLA Gap KPIs
