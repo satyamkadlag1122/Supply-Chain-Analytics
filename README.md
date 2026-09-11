@@ -49,7 +49,8 @@ To provide a single analytical view that helps users:
 ### 1. Overview
 Provides an executive-level view of overall supply chain performance — procurement spend, purchase orders, supplier risk, quality, and delivery performance.
 
-[![Overview](./images/overview.png)](./images/overview.png)
+
+[![Overview](./img/overview.png)](./img/overview.png)
 
 **Key visuals:**
 - Actual Procurement Spend, Total Purchase Orders, Rejection Rate, On-Time Delivery %, and Average Lead Time KPIs
