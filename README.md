@@ -6,7 +6,7 @@ The **Supply Chain Analytics Dashboard** provides a 3-page interactive view of p
 
 ## 🚀 Live Dashboard
 
-🔗 **[View Live Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=730cb13d-2d63-4a32-bf23-6365d9b6ef19&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f)**
+🔗 **[View Live Supply Chain Analytics Dashboard](https://app.powerbi.com/reportEmbed?reportId=730cb13d-2d63-4a32-bf23-6365d9b6ef19&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f)**
 ---
 ## 🛠️ Tech Stack
 
