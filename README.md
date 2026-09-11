@@ -46,34 +46,45 @@ To provide a single analytical view that helps users:
 
 ## 📊 Dashboard Pages
 
-### 1️⃣ Overview
+### 1. Overview
+Provides an executive-level view of overall supply chain performance — procurement spend, purchase orders, supplier risk, quality, and delivery performance.
 
-- Actual Spend
-- Total Purchase Orders
-- On-Time Delivery %
-- Average Lead Time
-- Rejection Rate
-- Supplier Risk
-- Spend Variance
+[![Overview](./images/supply_chain_overview.png)](./images/supply_chain_overview.png)
+
+**Key visuals:**
+- Actual Procurement Spend, Total Purchase Orders, Rejection Rate, On-Time Delivery %, and Average Lead Time KPIs
+- Actual vs Target Procurement Spend
+- Purchase Order Status
+- Supplier Risk Level
+- Spend Variance by Product Category
 - Delivery Delay Analysis
 
-### 2️⃣ Supplier & Procurement
+### 2. Supplier & Procurement Performance
+Analyzes supplier performance, procurement pricing, quality, and delivery effectiveness.
 
-- Supplier Performance
-- Purchase Price Variance (PPV)
-- Supplier Rating
-- Quality and Delivery Scores
-- Supplier Risk
-- Contract vs Actual Pricing
-- Monthly PPV Trend
+[![Supplier & Procurement Performance](./images/supplier_procurement_performance.png)](./images/supplier_procurement_performance.png)
 
-### 3️⃣ Logistics & Delivery
+**Key visuals:**
+- Total Suppliers, Average Supplier Rating, Purchase Price Variance %, Average Quality Score, and Average Delivery Score KPIs
+- Supplier & Procurement Performance analysis
+- Purchase Price Variance by Supplier
+- Monthly Purchase Price Variance trend
+- Supplier performance detail table
+- Actual Procurement Spend by Supplier
 
-- Carrier OTD vs SLA
+### 3. Logistics & Delivery Performance
+Analyzes transportation costs, carrier performance, transit time, and delivery reliability.
+
+[![Logistics & Delivery Performance](./images/logistics_delivery_performance.png)](./images/logistics_delivery_performance.png)
+
+**Key visuals:**
+- Total Freight Cost, Average Transit Time, On-Time Delivery %, Delayed Shipments, and Delivery SLA Gap KPIs
 - Freight Cost by Transport Mode
-- Transit Time by Carrier
-- Monthly OTD Trend
-- Delivery Delay Analysis
+- On-Time Delivery % by Region
+- Freight Cost vs Transit Time
+- Monthly On-Time Delivery trend
+- Average Transit Time by Carrier
+- Carrier On-Time Delivery % vs SLA Target
 
 ## 💡 Business Impact & Insights
 
