@@ -29,8 +29,6 @@ The dashboard uses operational **supply chain data** covering:
 - Warehouse/logistics data
 - Monthly procurement targets
 
-## 🎯 Features / Highlights
-
 ### 💼 Business Problem
 
 Supply chain data is often distributed across procurement, supplier, shipment, and logistics records, making it difficult to quickly identify cost overruns, supplier risks, quality issues, and delivery delays.
