@@ -87,11 +87,13 @@ Analyzes transportation costs, carrier performance, transit time, and delivery r
 - Average Transit Time by Carrier
 - Carrier On-Time Delivery % vs SLA Target
 
-💰 Procurement Spend: ₹891.9M below target, indicating controlled procurement spending and an opportunity to optimize budget utilization further.
-🚚 On-Time Delivery: 63.7% of deliveries are completed on time, highlighting a significant opportunity to improve delivery reliability and supply chain efficiency.
-📦 Quality Performance: The overall rejection rate is only 0.82%, indicating strong supplier quality and effective quality control.
-⏱️ Average Lead Time: The average procurement/delivery lead time is 10.43 days, providing an opportunity to shorten cycle times and improve operational responsiveness.
-🏭 Supplier Risk: 73% of suppliers are classified as Medium Risk, making supplier monitoring, risk mitigation, and performance improvement important priorities.
-🚛 Transportation Delays: Road shipments dominate delivery delays, indicating that road carriers and transportation processes should be closely monitored to improve SLA performance.
-📊 Supplier Management: The high 73% Medium-Risk supplier concentration suggests the need for regular supplier performance reviews and proactive risk management.
-🎯 Operational Focus: Improving the 63.7% on-time delivery rate, reducing the 10.43-day average lead time, and addressing road shipment delays can significantly strengthen overall supply chain performance.
+## 💡 Business Impact & Insights
+
+- 💰 **Procurement Spend:** ₹891.9M below target, indicating controlled procurement spending and an opportunity to optimize budget utilization further.
+- 🚚 **On-Time Delivery:** 63.7% of deliveries are completed on time, highlighting a significant opportunity to improve delivery reliability and supply chain efficiency.
+- 📦 **Quality Performance:** The overall rejection rate is only 0.82%, indicating strong supplier quality and effective quality control.
+- ⏱️ **Average Lead Time:** The average lead time is 10.43 days, highlighting an opportunity to shorten procurement and delivery cycles.
+- 🏭 **Supplier Risk:** 73% of suppliers are classified as Medium Risk, making supplier monitoring and risk mitigation important priorities.
+- 🚛 **Transportation Delays:** Road shipments dominate delivery delays, indicating that road carriers and transportation processes require closer monitoring.
+- 📊 **Supplier Management:** The high 73% Medium-Risk supplier concentration suggests the need for regular supplier performance reviews and proactive risk management.
+- 🎯 **Operational Focus:** Improving the 63.7% on-time delivery rate, reducing the 10.43-day average lead time, and addressing road shipment delays can strengthen overall supply chain performance.
