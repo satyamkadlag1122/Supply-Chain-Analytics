@@ -1,48 +1,48 @@
 # 🚚 Supply Chain Analytics Dashboard
 
-A dynamic **Power BI dashboard** designed to analyze procurement, supplier performance, quality, logistics, and delivery operations.
+## 📌 Overview
 
-The **Supply Chain Analytics Dashboard** provides a 3-page interactive view of procurement spend, supplier risk, delivery performance, and logistics costs. It helps stakeholders identify cost variances, supplier issues, delivery delays, and carrier performance gaps.
+An interactive **Power BI dashboard** designed to analyze procurement, supplier performance, quality, delivery operations, and logistics efficiency.
 
-## 🚀 Live Dashboard
+The dashboard helps stakeholders monitor key supply chain KPIs and identify cost, supplier, quality, and delivery performance gaps.
 
-🔗 **[View Live Supply Chain Analytics Dashboard](https://app.powerbi.com/reportEmbed?reportId=730cb13d-2d63-4a32-bf23-6365d9b6ef19&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f)**
 ---
-## 🛠️ Tech Stack
 
-- 📊 **Power BI Desktop** – Dashboard development and visualization
-- 📂 **Power Query** – Data cleaning and transformation
-- 🧠 **DAX** – KPIs and business calculations
-- 🔗 **Data Modeling** – Relationships between procurement, supplier, category, date, and logistics data
-- 📁 **File Format** – `.pbix` for the Power BI project
+## 💼 Business Problem
 
-## 📂 Data Source
+Supply chain data is often distributed across procurement, supplier, shipment, and logistics records, making it difficult to identify:
 
-The dashboard uses operational **supply chain data** covering:
+- Procurement cost overruns
+- Supplier performance issues
+- Quality and rejection problems
+- Delivery delays
+- High logistics and freight costs
 
-- Purchase orders and PO lines
-- Supplier information
-- Product/category data
-- Shipment records
-- Carrier information
-- Warehouse/logistics data
-- Monthly procurement targets
+This dashboard provides a **centralized analytical view** to support data-driven supply chain decisions.
 
-### 💼 Business Problem
+---
 
-Supply chain data is often distributed across procurement, supplier, shipment, and logistics records, making it difficult to quickly identify cost overruns, supplier risks, quality issues, and delivery delays.
+## 📊 Dataset
 
-### 🎯 Goal of the Dashboard
+The dataset contains operational supply chain information, including:
 
-To provide a single analytical view that helps users:
+- Purchase Orders & PO Lines
+- Supplier Information
+- Product & Category Data
+- Shipment Records
+- Carrier Information
+- Warehouse & Logistics Data
+- Monthly Procurement Targets
 
-- Monitor procurement spend vs target
-- Evaluate supplier performance
-- Identify pricing variance
-- Track quality and rejection rates
-- Measure on-time delivery
-- Compare carrier performance against SLA
-- Analyze freight costs and transport modes
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI Desktop** – Dashboard & Data Visualization
+- **Power Query** – Data Cleaning & Transformation
+- **DAX** – KPIs & Business Calculations
+- **Data Modeling** – Relationships between procurement, supplier, category, date, and logistics data
+
 
 ## 📊 Dashboard Pages
 
