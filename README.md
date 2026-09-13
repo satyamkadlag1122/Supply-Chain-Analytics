@@ -89,7 +89,7 @@ Analyzes transportation costs, carrier performance, transit time, and delivery r
 
 ## 💡 Business Impact & Insights
 
-- 💰 **Procurement Spend:** ₹891.9M below target, indicating controlled procurement spending and an opportunity to optimize budget utilization further.
+- 💰 **Procurement Spend:** ₹991.9M below target, indicating controlled procurement spending and an opportunity to optimize budget utilization further.
 - 🚚 **On-Time Delivery:** 63.7% of deliveries are completed on time, highlighting a significant opportunity to improve delivery reliability and supply chain efficiency.
 - 📦 **Quality Performance:** The overall rejection rate is only 0.82%, indicating strong supplier quality and effective quality control.
 - ⏱️ **Average Lead Time:** The average lead time is 10.43 days, highlighting an opportunity to shorten procurement and delivery cycles.
